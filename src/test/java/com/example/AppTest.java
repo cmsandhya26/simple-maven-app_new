@@ -1,6 +1,6 @@
 package com.example;
 import org.junit.Test;
-import org.junut.Asset.*;
+import org.junit.Assert.*;
 
 class AppTest{
     @Test
