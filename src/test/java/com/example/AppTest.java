@@ -2,7 +2,7 @@ package com.example;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-class AppTest{
+public class AppTest{
     @Test
     public void testMul(){
         App app =new App();
