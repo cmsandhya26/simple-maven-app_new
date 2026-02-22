@@ -6,6 +6,6 @@ class AppTest{
     @Test
     public void testMul(){
         App app =new App();
-        AssertEquals(6,app.mul(2,3));
+        assertEquals(6,app.mul(2,3));
     }
 }
